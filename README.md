@@ -1,6 +1,6 @@
-# image_to_pdf_converter
+# image_to_pdf_converter   BETA
 
-A new Flutter project.
+A new Flutter project BETA.
 
 ## Getting Started
 
