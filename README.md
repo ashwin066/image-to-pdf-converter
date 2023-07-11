@@ -1,8 +1,8 @@
 # image_to_pdf_converter   BETA
 
-A new Flutter project BETA.
+Image to PDF Converter: Viewer is a powerful app that allows you to effortlessly convert and view images as PDF files. Whether you need to convert a single image or a batch of images, this app provides a convenient and user-friendly solution. With just a few taps, you can select images from your device's gallery or capture new ones using the built-in camera. The app supports various image formats, including JPG, PNG, BMP, and more. Once you have selected the images, you can customize the settings such as page orientation, paper size, and image compression. The app ensures that the converted PDF files maintain the original image quality.
 
- 
+
 ![imagetopdf](https://github.com/ashwin066/image-to-pdf-converter/assets/93830211/6dc35eb9-9832-4fae-8577-fd7f73351c62)
 
 
